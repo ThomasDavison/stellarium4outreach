@@ -1,0 +1,1 @@
+# stellarium4outreach
